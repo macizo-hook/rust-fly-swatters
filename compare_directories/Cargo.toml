@@ -1,0 +1,10 @@
+[package]
+name = "compare_directories"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.3"
+sha2 = "0.9"
+colored = "2.0"
+
