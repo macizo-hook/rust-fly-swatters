@@ -7,7 +7,7 @@ I'm curious about Rust, and I've some problems that I think are approachable eno
 
 ## Usage
 
-It is likely that each script in this repo will be logically self-contained, and as such, `cargo run <SCRIPT.rs>` is all you'll need to do. This repo assumes a that the user executes the scripts from a UNIX or UNIX-like operating system.
+It is likely that each script in this repo will be logically self-contained, and as such, `cargo run <SCRIPT.rs>` is all you'll need to do. This repo assumes  that the user executes the scripts from a UNIX or UNIX-like operating system.
 
 
 ## Contributing
